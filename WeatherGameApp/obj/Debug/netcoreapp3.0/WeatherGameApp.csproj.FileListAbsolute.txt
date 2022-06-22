@@ -1,0 +1,13 @@
+C:\Users\George Etherington\source\repos\WeatherGameApp\WeatherGameApp\bin\Debug\netcoreapp3.0\WeatherGameApp.exe
+C:\Users\George Etherington\source\repos\WeatherGameApp\WeatherGameApp\bin\Debug\netcoreapp3.0\WeatherGameApp.deps.json
+C:\Users\George Etherington\source\repos\WeatherGameApp\WeatherGameApp\bin\Debug\netcoreapp3.0\WeatherGameApp.runtimeconfig.json
+C:\Users\George Etherington\source\repos\WeatherGameApp\WeatherGameApp\bin\Debug\netcoreapp3.0\WeatherGameApp.runtimeconfig.dev.json
+C:\Users\George Etherington\source\repos\WeatherGameApp\WeatherGameApp\bin\Debug\netcoreapp3.0\WeatherGameApp.dll
+C:\Users\George Etherington\source\repos\WeatherGameApp\WeatherGameApp\bin\Debug\netcoreapp3.0\WeatherGameApp.pdb
+C:\Users\George Etherington\source\repos\WeatherGameApp\WeatherGameApp\obj\Debug\netcoreapp3.0\WeatherGameApp.csprojAssemblyReference.cache
+C:\Users\George Etherington\source\repos\WeatherGameApp\WeatherGameApp\obj\Debug\netcoreapp3.0\WeatherGameApp.AssemblyInfoInputs.cache
+C:\Users\George Etherington\source\repos\WeatherGameApp\WeatherGameApp\obj\Debug\netcoreapp3.0\WeatherGameApp.AssemblyInfo.cs
+C:\Users\George Etherington\source\repos\WeatherGameApp\WeatherGameApp\obj\Debug\netcoreapp3.0\WeatherGameApp.dll
+C:\Users\George Etherington\source\repos\WeatherGameApp\WeatherGameApp\obj\Debug\netcoreapp3.0\WeatherGameApp.pdb
+C:\Users\George Etherington\source\repos\WeatherGameApp\WeatherGameApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\George Etherington\source\repos\WeatherGameApp\WeatherGameApp\obj\Debug\netcoreapp3.0\WeatherGameApp.csproj.CopyComplete
